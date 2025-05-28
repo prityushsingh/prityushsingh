@@ -4,7 +4,7 @@
 </div>
 
 - 🌱 I’m currently learning **[System Design](https://blog.bytebytego.com/p/free-system-design-pdf-158-pages)**
-- 💬 Ask me about **Java, Node.js, React...or anything [here](https://github.com/{USERNAME}/{USERNAME}/issues)**
+- 💬 Ask me about **Java, Node.js, React...or anything [here](https://github.com/{prityushsingh}/{prityushsingh}/issues)**
 
 <br>
 
