@@ -3,7 +3,7 @@
   <img src="https://profile-counter.glitch.me/{prityushsingh}/count.svg" alt="Visitor's Count" />
 </div>
 
-- 🌱 I’m currently learning **[System Design](https://blog.bytebytego.com/p/free-system-design-pdf-158-pages)**
+- 🌱 I’m currently learning **[System Design](https://systemdesignschool.io/primer)**
 - 💬 Ask me about **Java, Node.js, React...or anything [here](https://github.com/{prityushsingh}/{prityushsingh}/issues)**
 
 <br>
