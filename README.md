@@ -16,7 +16,7 @@
 ### 🚀 About Me
 
 - 🌱 Currently learning **[System Design](https://systemdesignschool.io/primer)**
-- 💬 Ask me about **Java, Node.js, React** — or open an [issue here](https://github.com/prityushsingh/prityushsingh/issues)
+- 💬 Ask me about **Python, Java, Node.js, React** — or open an [issue here](https://github.com/prityushsingh/prityushsingh/issues)
 
 ---
 
