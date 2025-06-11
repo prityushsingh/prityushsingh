@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Prityush Parmar 👋</h1>
+<h1 align="center">Hi Stalker, I'm Prityush Parmar 👋</h1>
 
 <p align="center">
   A software engineer passionate about building clean, scalable, and user-focused applications.
